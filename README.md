@@ -1,4 +1,4 @@
-# 🛒 Product Category Classifier
+F# 🛒 Product Category Classifier
 
 Model de machine learning care **sugerează automat categoria unui produs pe baza titlului**,
 pentru ca produsele noi dintr-un magazin online să fie clasificate rapid și fără erori manuale.
@@ -46,7 +46,7 @@ Le țin într-un singur loc ca logica să fie identică peste tot. În plus, mod
 
 ### 1. Instalare
 ```bash
-git clone https://github.com/<utilizator>/product-category-classifier.git
+git clone https://github.com/cristianacostache44/product-category-classifier.git
 cd product-category-classifier
 pip install -r requirements.txt
 ```
